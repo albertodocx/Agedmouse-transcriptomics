@@ -1,4 +1,5 @@
 <img width="612" alt="Imagen 1" src="https://github.com/user-attachments/assets/3cde9cb2-cc53-4541-b029-1218a7cf1b54" />
+
 # Aging Mouse Transcriptomic Analysis
 
 This repository provides scripts and a visualization app for analyzing transcriptomic data from aging mice. The workflow includes data extraction, gene filtering, comparative analysis, and visual inspection using UMAP projections.
